@@ -12,17 +12,19 @@ figure {
   font-size: 20px;
 }
 
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
 
-
-section#featured-property p {
+#featured-property p {
   text-align: center;
-  width: 900px;
- 
+  width: 800px;
 }
 
 #details {
   display: block;
-  align-content: center
 }
 
 div {
